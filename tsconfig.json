@@ -19,7 +19,11 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+<<<<<<< HEAD
+      "@/*": ["./*"]
+=======
+      "@/*": ["./*"]
+>>>>>>> a62a03a (Initial commit from Create Next App)
     }
   },
   "include": [

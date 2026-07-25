@@ -1,15 +1,7 @@
-<<<<<<< HEAD
 fastapi
 uvicorn
 pydantic-settings
 python-dotenv
 httpx
 supabase
-=======
-fastapi
-uvicorn
-pydantic-settings
-python-dotenv
-httpx
-supabase
->>>>>>> 2badbe3 (V1)
+email-validator
